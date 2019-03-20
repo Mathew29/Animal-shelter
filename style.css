@@ -1,16 +1,23 @@
 .title{
  font-family: Optima, sans-serif;
  font-size: 55px;
- color: brown;
- text-align: right;
+ color: #1f4d59;
+ text-align: center;
+ font-weight: bold;
 }
 body {
-  background-repeat: repeat-y;
+  background-color: pink
+
+
 }
 
 .column{
   float:left;
-  width: 300px;
+  width: 250px;
+  border: 2px solid #c63b67;
+  padding: 2px;
+  margin:2px;
+  background-color: #ff6d9b
 }
 .column h2{
   font-size: 30px
@@ -26,4 +33,8 @@ body {
 }
 .column h5{
   font-size: 30px
+}
+img{
+  width: 250px;
+  height: auto;
 }

@@ -1,0 +1,28 @@
+.title{
+ font-family: Optima, sans-serif;
+ font-size: 55px;
+ color: brown;
+ text-align: right;
+}
+body {
+  background-repeat: repeat-y;
+}
+.Sophie{
+
+}
+.Spot{
+
+}
+.Josh{
+
+}
+.Kilgore{
+
+}
+.Bill{
+
+}
+.important{
+  float:left;
+  width: 300px;
+}
